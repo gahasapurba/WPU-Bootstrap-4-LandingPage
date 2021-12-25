@@ -14,7 +14,7 @@
 }
 
 .jumbotron {
-	background-image 	: url('../../Images/18.jpg');
+	background-image 	: url('Images/18.jpg');
 	background-size 	: cover;
 	height 				: 540px;
 	text-align 			: center;
